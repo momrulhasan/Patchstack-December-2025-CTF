@@ -1,4 +1,4 @@
-# Patchstack December 2024 CTF — Writeups
+# Patchstack December 2025 CTF — Writeups
 
 > **Consolidated writeups for 5 solved challenges:** Bazaar, Dark Library, Klunked (partial), AI BadBots, and Super Malware Scanner. Each section includes vulnerability analysis, tested exploitation steps, working PoC code, and flags.
 
